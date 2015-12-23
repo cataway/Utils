@@ -1,5 +1,5 @@
 /**
- * Created by cataway on 2015/10/15.
+ * Created by cataway
  */
 var utils={};
 /*
